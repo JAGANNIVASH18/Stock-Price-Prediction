@@ -16,6 +16,11 @@ Stock price prediction is a challenging task due to the non-linear and volatile 
 * **Dataset**:
   A stock market dataset containing **historical daily closing prices** (e.g., Google, Apple, Tesla, or NSE/BSE data).
   The dataset is usually divided into **training and testing sets** after applying normalization and sequence generation.
+* **Test Dataset:**
+  <img width="977" height="635" alt="image" src="https://github.com/user-attachments/assets/d0abb889-f656-42ef-828a-ec963018a5cf" />
+
+* **Trainset Dataset:**
+  <img width="976" height="672" alt="image" src="https://github.com/user-attachments/assets/44cc46e9-355f-4efc-96cb-c776657026f5" />
 
 ---
 
